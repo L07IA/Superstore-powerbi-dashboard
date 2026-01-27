@@ -32,3 +32,7 @@ Power BI • DAX (Time Intelligence) • Data Modeling • Dashboard UX • Stor
 
 ### Analytics Dashboard
 ![Analytics](https://github.com/L07IA/Superstore-powerbi-dashboard/blob/main/screenshots/02-analytics.png)
+
+## Power BI File
+The `.pbix` file is provided in this repository.  
+To explore the full interactive dashboard, download the file and open it using **Power BI Desktop**.
