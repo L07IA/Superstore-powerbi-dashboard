@@ -1,4 +1,8 @@
+
+
 # Superstore Sales & Profitability Dashboard (Power BI)
+
+*Business-focused Power BI dashboard analyzing sales and profitability using Superstore data.*
 
 Interactive Power BI report built to provide an executive sales overview and a profitability deep dive for Furniture.
 
@@ -28,10 +32,10 @@ Power BI • DAX (Time Intelligence) • Data Modeling • Dashboard UX • Stor
 ## Screenshots
 
 ### Executive Dashboard
-![Executive](https://github.com/L07IA/Superstore-powerbi-dashboard/blob/main/screenshots/01-executive.png)
+![Executive](https://raw.githubusercontent.com/L07IA/Superstore-powerbi-dashboard/main/screenshots/01-executive.png)
 
 ### Analytics Dashboard
-![Analytics](https://github.com/L07IA/Superstore-powerbi-dashboard/blob/main/screenshots/02-analytics.png)
+![Analytics](https://raw.githubusercontent.com/L07IA/Superstore-powerbi-dashboard/main/screenshots/02-analytics.png)
 
 ## Power BI File
 The `.pbix` file is provided in this repository.  
